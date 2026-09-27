@@ -310,7 +310,7 @@ export default function BranchDetails() {
           <span className="branch-details-title-line" />
         </div>
       </div>
-
+<h1>ssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</h1>
       {/* Actions */}
       <div className="branch-details-actions">
         <Tooltip title="تحديث">
